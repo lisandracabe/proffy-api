@@ -7,10 +7,10 @@ In addition to having an editor to work with the code like [VSCode](https://code
 
 ```shell
 # clone this repository
-git clone https://github.com/joilsonLeal/delivery-much-backend-challenge.git
+git clone https://github.com/joilsonLeal/proffy-api.git
 
 # select repository
-cd delivery-much-backend-challenge
+cd proffy-api
 
 # install dependencies
 npm install
