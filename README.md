@@ -7,7 +7,7 @@ In addition to having an editor to work with the code like [VSCode](https://code
 
 ```shell
 # clone this repository
-git clone https://github.com/joilsonLeal/proffy-api.git
+git clone https://github.com/lisandracabe/proffy-api.git
 
 # select repository
 cd proffy-api
